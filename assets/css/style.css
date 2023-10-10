@@ -706,7 +706,7 @@ footer .social a:hover{
         border-radius: 20px;
         box-shadow:0px 5px 5px rgba(25,45,51,0.1);
         position: fixed;
-        z-index: 888;
+        z-index: 999;
         background-color: var(--white-);
     }
     nav ul a span{
