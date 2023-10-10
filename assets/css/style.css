@@ -695,7 +695,7 @@ footer .social a:hover{
         position: unset;
     }
     header{
-        position: unset;
+        position: relative;
     }
     nav{
         position: absolute;
